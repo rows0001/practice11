@@ -3,7 +3,7 @@
     "path": "C:/Users/rowsh/Desktop/practice11/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1357739756",
     "contents": "",
     "dirty": false,
     "created": 1716719014474.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "50:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716719025,
+    "lastKnownWriteTime": 1716719574,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716719025890,
+    "last_content_update": 1716719574600,
     "read_only": false,
     "read_only_alternatives": []
 }
